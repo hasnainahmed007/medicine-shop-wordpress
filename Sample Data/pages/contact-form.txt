@@ -1,0 +1,15 @@
+<div class="form-horizontal row">
+        <div class="col">
+            [text* your-name placeholder class:required class:form-control "Name *"]
+        </div>
+        <div class="col">
+            [email* email-257 placeholder class:required "Email *"]
+        </div>
+        <div class="w-100"></div>
+        <div class="col-12">
+            [textarea textarea-552 placeholder class:required "Message"]
+        </div>
+        <div class="col-12">
+            [submit class:btn class:btn-default "Send"]
+        </div>
+</div>
